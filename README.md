@@ -14,5 +14,4 @@ An interactive HR analytics dashboard built to analyze workforce data across mul
 - Recruitment source effectiveness
 - Performance and satisfaction score tracking
 
-## Dashboard Preview
-![Dashboard Preview](HR_Dashboard.png)
+![Dashboard Preview](HR%20Dashboard.png)
