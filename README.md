@@ -15,4 +15,4 @@ An interactive HR analytics dashboard built to analyze workforce data across mul
 - Performance and satisfaction score tracking
 
 ## Dashboard Preview
-![Dashboard Preview](اسم_الصورة_هنا.png)
+![Dashboard Preview](HR_Dashboard.png)
